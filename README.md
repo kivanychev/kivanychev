@@ -1,7 +1,7 @@
 - 👋 Hi, I'm R&D expert of ZorG vision project
 - 👀 I’m interested in Electronics, programming, coaching
-- 🌱 I’m currently developing a Video capturing project using STM32 and Creating IoT projects for customers using ESP32 and AVR MCUs 
-- 💞️ I’m looking for collaboration on Video capturing on STM32, P2P
+- 🌱 I’m currently developing projects based on people's requests and interests
+- 💞️ I prefer investors my most wanted projects to mass production
 - 📫 How to reach me kirill.ivanychev@zorgvision.ru  Skype: ancientg
 
 <!---
