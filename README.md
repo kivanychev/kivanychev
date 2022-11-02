@@ -1,4 +1,4 @@
-- 👋 Hi, I'm R&D expert of ZorG vision project
+- 👋 Hi, I'm R&D in Useful Gadgets Lab project
 - 👀 I’m interested in Electronics, programming, coaching
 - 🌱 I’m currently developing projects based on people's requests and interests
 - 💞️ I prefer investors my most wanted projects to mass production
