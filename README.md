@@ -1,7 +1,7 @@
 - 👋 Hi, I'm R&D specialist in Useful Gadgets Lab project
 - 👀 I’m interested in Electronics, programming, coaching
 - 🌱 I’m currently developing projects based on people's requests and interests
-- 💞️ I prefer investors my most wanted projects to mass production
+- 💞️ I offer investors my most wanted projects to mass production
 - 📫 How to reach me kirill.ivanychev@zorgvision.ru  Skype: ancientg
 
 <!---
