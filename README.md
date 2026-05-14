@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics, programming, coaching
 - 🌱 I’m currently developing projects based on people's requests and interests
 - 💞️ I offer investors my most wanted projects to mass production
-- 📫 How to reach me kirill.ivanychev@zorgvision.ru  Skype: ancientg
+- 📫 How to reach me kirill.ivanychev@zorgvision.ru 
 
 <!---
 kivanychev/kivanychev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
